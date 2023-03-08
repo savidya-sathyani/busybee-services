@@ -1,0 +1,32 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "## User Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savidya-sathyani/busybee-services.git"
+  },
+  "keywords": [],
+  "author": "Savidya Sathyani [mails.savidya@gmail.com]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savidya-sathyani/busybee-services/issues"
+  },
+  "homepage": "https://github.com/savidya-sathyani/busybee-services#readme",
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.7.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "prettier": "^2.8.4"
+  }
+}
